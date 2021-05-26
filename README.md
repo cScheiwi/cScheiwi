@@ -5,7 +5,7 @@ Hi Christop Scheiwiller
 👨‍🎓 I study computer science at the University of Applied Sciences [OST](https://www.ost.ch/en/) in Rapperswil.\
 📫 christophscheiwiller@gmail.com
 
-<!---
-cScheiwi/cScheiwi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+contributed to:
+- [DrinkTacker](https://github.com/cScheiwi/drink-tracker)
+- [BikePlanner-Backend](https://github.com/cScheiwi/bike-planner-backend)
+- [BikePlanner-Frontend](https://github.com/cScheiwi/bike-planner-frontend)
