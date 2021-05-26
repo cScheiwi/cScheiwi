@@ -1,7 +1,7 @@
 Hi Christop Scheiwiller
 
 ✔ I'm interested in Software Architecture an Clean Code.\
-🖥 Currently i'm working at [Abraxas AG](https://www.abraxas.ch/de).\
+🖥 Currently i'm working at [Abraxas](https://www.abraxas.ch/de).\
 👨‍🎓 I study computer science at the University of Applied Sciences [OST](https://www.ost.ch/en/) in Rapperswil.\
 📫 christophscheiwiller@gmail.com
 
