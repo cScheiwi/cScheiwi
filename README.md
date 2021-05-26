@@ -6,6 +6,6 @@ Hi Christop Scheiwiller
 📫 christophscheiwiller@gmail.com
 
 contributed to:
-- [DrinkTacker](https://github.com/cScheiwi/drink-tracker)
-- [BikePlanner-Backend](https://github.com/cScheiwi/bike-planner-backend)
-- [BikePlanner-Frontend](https://github.com/cScheiwi/bike-planner-frontend)
+- [DrinkTacker](https://github.com/seinol/drink-tracker)
+- [BikePlanner-Backend](https://github.com/seinol/bike-planner-backend)
+- [BikePlanner-Frontend](https://github.com/seinol/bike-planner-frontend)
