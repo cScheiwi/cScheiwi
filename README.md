@@ -10,9 +10,9 @@ OST - Engineering Project 2021 - Capacity Watcher
 - [CapWatch Frontend](https://github.com/cScheiwi/capwatch-frontend)
 - [CapWatch Documentation](https://github.com/cScheiwi/capwatch-documentation)
 
-OST - DrinkTracker
+HSR - DrinkTracker
 - [DrinkTacker](https://github.com/seinol/drink-tracker)
 
-OST - BikePlanner
+HSR - BikePlanner
 - [BikePlanner-Backend](https://github.com/seinol/bike-planner-backend)
 - [BikePlanner-Frontend](https://github.com/seinol/bike-planner-frontend)
