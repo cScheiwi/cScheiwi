@@ -1,7 +1,7 @@
 Hi Christop Scheiwiller
 
 ✔ I'm interested in software architecture, clean code and agile software development.\
-🖥 Currently i'm working at [Abraxas](https://www.abraxas.ch/de).\
+🖥 Currently i'm working at [Abacus](https://www.abacus.ch).\
 👨‍🎓 I study computer science at the university of applied sciences [OST](https://www.ost.ch/en/) in Rapperswil.
 
 contributed to:\
